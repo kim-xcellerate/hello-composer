@@ -3,6 +3,7 @@
     "description": "First composer package",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.2.25"
     },
