@@ -1,0 +1,14 @@
+{
+    "name": "kimbouchouaram/hello-composer",
+    "description": "First composer package",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2.25"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloComposer\\": "src/"
+        }
+    }
+}
