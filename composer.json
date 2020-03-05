@@ -1,5 +1,6 @@
 {
     "name": "kim-xcellerate/hello-composer",
+    "version": "1.0.0",
     "description": "First composer package",
     "type": "library",
     "license": "MIT",
